@@ -23,7 +23,7 @@ BENGALI_ALPHABETS = ["অ", "আ", "ই", "ঈ", "উ", "ঊ", "ঋ", "এ", "�
                     "ট", "ঠ", "ড", "ঢ", "ণ", "ত", "থ", "দ", "ধ", "ন", 
                     "প", "ফ", "ব", "ভ", "ম", "য", "র", "ল", "শ", "ষ", 
                     "স", "হ", "ড়", "ঢ়", "য়", "ৎ", "ং", "ঃ", "ঁ"]
-BUFFER_SIZE = 100  # Number of data points to display in the graph
+BUFFER_SIZE = 100  # Number of data points to display in the graphg
 SERIAL_BAUD_RATE = 115200
 
 class SerialThread(QThread):
